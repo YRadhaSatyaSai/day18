@@ -1,0 +1,24 @@
+*{
+    color: antiquewhite;
+}
+.one{
+    width: 150px;
+    height: 150px;
+    border:1px solid rgb(41, 26, 211);
+    margin: 10px 50px;
+    border-radius: 50%;
+}
+.two{
+    border:1px solid rgb(117, 0, 128);
+    width: 120px;
+    height: 120px;
+    margin: 15px 15px; 
+    border-radius: 50%;
+   
+}
+.three{
+    border: 1px solid blanchedalmond;
+    width: 60px;
+    height: 60px;
+    margin: 27px 27px;
+}
